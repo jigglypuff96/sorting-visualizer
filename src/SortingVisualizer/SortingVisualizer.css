@@ -1,0 +1,15 @@
+.array-container{
+    /*display: flex;
+    justify-content: center;
+    align-self: center;*/
+    /* background-color: pink; */
+    position: absolute;
+    left:100px;
+    /* top: 50vh; */
+}
+.array-bar {
+    width: 20px;
+    /* background-color: turquoise; */
+    display:inline-block;
+    margin: 0 1px;
+}
